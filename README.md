@@ -26,6 +26,7 @@ Ce TP introduit :
 - La logique Java (Random, calculs…)
 
 ### 🗂️ Structure du projet
+```
 app/
 ├── src/
 │   ├── main/
@@ -36,6 +37,7 @@ app/
 │   │   │   ├── values/strings.xml
 │   │   │   ├── values/colors.xml
 │   │   │   └── values/dimens.xml
+```
 
 ### 🚀 Fonctionnalités
 
